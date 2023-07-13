@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](../nft-preview-card-component-main/images/card4.png)
+![Design preview for the Order summary card coding challenge](../nft-preview-card-component-main/images/my-preview.png)
 
 ## Welcome! 👋
 
