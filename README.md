@@ -6,7 +6,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io/challenges) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](file:///G:/kazim%20file/kazim%20floder/challenger/challenger-3_origin/indix.html) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
